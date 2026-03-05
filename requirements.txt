@@ -1,0 +1,12 @@
+pandas
+transformers
+torch
+tqdm
+zhipuai
+openai
+scipy
+scikit-learn
+
+sentencepiece
+protobuf
+tiktoken

@@ -1,0 +1,46 @@
+﻿word,final_label,reason
+挑战,Agentic,一致
+扎实,Effort,一致
+绩效,Professional Traits,一致
+领导力,Agentic,一致
+婚姻,Private Traits,一致
+质量,Effort,一致
+进取,Agentic,一致
+丈夫,Private Traits,一致
+妻子,Private Traits,一致
+成就,Excellence,强调结果性成就 (Excellence > Agentic)
+管理,Professional Traits,一致
+执行力,Effort,一致
+目标,Agentic,一致
+行业,Professional Traits,一致
+父母,Private Traits,一致
+业务,Professional Traits,一致
+耐力,Effort,一致
+热情,Communal,一致
+出色,Excellence,一致
+素养,Professional Traits,一致
+竞争力,Agentic,一致
+儿子,Private Traits,一致
+乐于助人,Communal,一致
+技能,Professional Traits,强调职业资产 (Professional > Effort)
+高效,Effort,一致
+传奇,Excellence,一致
+最佳,Excellence,一致
+知识,Professional Traits,一致
+父亲,Private Traits,一致
+创新,Agentic,一致
+辉煌,Excellence,一致
+经验,Professional Traits,强调职业积累 (Professional > Effort)
+标准,Professional Traits,一致
+敏锐,Agentic,一致
+坚韧,Effort,编码手册定义为努力型特质 (Effort)
+效率,Effort,强调过程投入与执行 (Effort)
+优异,Excellence,一致
+养育,Private Traits,一致
+战略,Agentic,一致
+学术,Professional Traits,一致
+同情,Communal,一致
+勇敢,Agentic,一致
+理解,Communal,一致
+孩子,Private Traits,一致
+专业,Professional Traits,一致
